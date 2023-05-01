@@ -1,0 +1,15 @@
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\bin\Debug\net6.0\mis-221-pa-5-wcklecka.exe
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\bin\Debug\net6.0\mis-221-pa-5-wcklecka.deps.json
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\bin\Debug\net6.0\mis-221-pa-5-wcklecka.runtimeconfig.json
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\bin\Debug\net6.0\mis-221-pa-5-wcklecka.dll
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\bin\Debug\net6.0\mis-221-pa-5-wcklecka.pdb
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.csproj.AssemblyReference.cache
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.AssemblyInfoInputs.cache
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.AssemblyInfo.cs
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.csproj.CoreCompileInputs.cache
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.dll
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\refint\mis-221-pa-5-wcklecka.dll
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.pdb
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\mis-221-pa-5-wcklecka.genruntimeconfig.cache
+C:\Users\wckle\OneDrive\Documents\MIS221\Labs\mis-221-pa-5-wcklecka\obj\Debug\net6.0\ref\mis-221-pa-5-wcklecka.dll
